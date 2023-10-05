@@ -188,6 +188,8 @@ switch (i) {
 
 ### 18. How to implement an infinite loop?
 
+### Answer:
+
 ```
 while(true) {
     // loop body goes here
@@ -281,7 +283,7 @@ I'm going to manipulate the bit at the position three as per *Order of bits* sch
 The code is written for char type variables.
 
 
-### Answer (20):
+### Answer:
 
 ```
 void set_third_bit_to_one(char &value) {
@@ -302,7 +304,7 @@ c = a+++b;
 
 ```
 
-### Answer (21): Yes, the code is valid. 
+### Answer: Yes, the code is valid. 
 
 In the first line of the code: three integer variables are declared: a=5, b=7, and c.
 
